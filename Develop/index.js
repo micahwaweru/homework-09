@@ -72,7 +72,7 @@ inquirer.prompt([
     var email = `Email:  \n ${response.email}\n`;
     
     
-    var readMetext = titleString + desc + instlIns + usageInf + contrGuide + testIns + + response.license +  questions + gitHubUN + email;
+    var readMetext = titleString + desc + instlIns + usageInf + contrGuide + testIns + +  questions + gitHubUN + email;
     
     
     

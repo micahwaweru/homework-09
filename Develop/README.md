@@ -1,15 +1,15 @@
-# Micah's Project
+# New Project 1
 ## Description: 
- This is my description
+ Description 1
  ## Installation: 
- Please install with care
+ Install following these steps
  ## Usage Information: 
- Use as such
+ Use with care
  ## Contribution Guidlines 
  Contribute wisely
  ## Test Instructions 
- test thoroughly
-## Questions: 
+ Test thoroughly
+NaN## Questions: 
 Github: [https://github.com/micahwaweru]
- ## Email:  
+Email:  
  micah.waweru@gmail.com
