@@ -1,15 +1,14 @@
-# New Project 1
+# Micah's new project
 ## Description: 
- Description 1
+ Micah's new description
  ## Installation: 
- Install following these steps
+ Install following 1 2 3
  ## Usage Information: 
- Use with care
+ Use following 1 2 3 
  ## Contribution Guidlines 
  Contribute wisely
  ## Test Instructions 
  Test thoroughly
-NaN## Questions: 
-Github: [https://github.com/micahwaweru]
+NaNGithub: [https://github.com/micahwaweru]
 Email:  
  micah.waweru@gmail.com

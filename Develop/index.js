@@ -67,12 +67,13 @@ inquirer.prompt([
     var usageInf = ` ## Usage Information: \n ${response.usageInf}\n`;
     var contrGuide = ` ## Contribution Guidlines \n ${response.contrGuide}\n`;
     var testIns = ` ## Test Instructions \n ${response.testIns}\n`;
+    var license = `## License: \n ${license}\n`
     var questions = `## Questions: \n`
     var gitHubUN = `Github: [https://github.com/${response.gitHubUN}]\n`
     var email = `Email:  \n ${response.email}\n`;
     
     
-    var readMetext = titleString + desc + instlIns + usageInf + contrGuide + testIns + +  questions + gitHubUN + email;
+    var readMetext = titleString + desc + instlIns + usageInf + contrGuide + testIns + questions + gitHubUN + email;
     
     
     
