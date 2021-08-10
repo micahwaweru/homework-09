@@ -8,8 +8,8 @@ const { type } = require('os');
 inquirer.prompt([
     {
         type: 'input',
-        message: 'What is your name?',
-        name: 'username',
+        message: 'What is your project title?',
+        name: 'titleName',
     },
     {
         type: 'input',
@@ -19,13 +19,14 @@ inquirer.prompt([
 ])
 .then((response)=>{
     console.log(response);
-    var username = response.username;
-    console.log(username);  
+    var titleName = response.titleName;
+    console.log(titleName);  
     var gitHubUN = response.gitHubUN;
     
     
+    var titleString = `# ${titleName}`;
     
-    var readMetext = `# ${username}\n ## GitHub: [https://github.com/${gitHubUN}]\n]`;
+    var readMetext;
     
     
     
