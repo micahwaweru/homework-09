@@ -1,15 +1,14 @@
-# This new project
+# Micah's new project
 ## Description: 
- This new description
+ A new README file generated with scripting!
  ## Installation: 
- These new instructions
+ Please install this packet following 1, 2, 3
  ## Usage Information: 
- This usage information
+ Please use this to create your own professional README File!
  ## Contribution Guidlines 
- This new contribution info
+ If you have any ideas to contribute, please do so locally and submit for review.
  ## Test Instructions 
- This new test info
+ Test that this is workking but reviewing your answers in the generated README
 ## Questions: 
 Github: [https://github.com/micahwaweru]
-Email:  
- micah.waweru@gmail.com
+Email: micah.waweru@gmail.com
