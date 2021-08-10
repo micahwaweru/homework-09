@@ -70,7 +70,7 @@ inquirer.prompt([
     var license = `## License: \n ${license}\n`
     var questions = `## Questions: \n`
     var gitHubUN = `Github: [https://github.com/${response.gitHubUN}]\n`
-    var email = `Email:  \n ${response.email}\n`;
+    var email = `Email: ${response.email}\n`;
     
     
     var readMetext = titleString + desc + instlIns + usageInf + contrGuide + testIns + questions + gitHubUN + email;
